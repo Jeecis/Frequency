@@ -1,0 +1,3 @@
+C:/Users/jekab/CLionProjects/frequency/cmake-build-debug/CMakeFiles/frequency.dir
+C:/Users/jekab/CLionProjects/frequency/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jekab/CLionProjects/frequency/cmake-build-debug/CMakeFiles/rebuild_cache.dir
